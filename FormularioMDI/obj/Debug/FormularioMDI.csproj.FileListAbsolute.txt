@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\bin\Debug\FormularioMDI.exe.config
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\bin\Debug\FormularioMDI.exe
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\bin\Debug\FormularioMDI.pdb
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.Form1.resources
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.frmVentanaTexto.resources
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.Properties.Resources.resources
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.exe
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\FormularioMDI\obj\Debug\FormularioMDI.pdb
