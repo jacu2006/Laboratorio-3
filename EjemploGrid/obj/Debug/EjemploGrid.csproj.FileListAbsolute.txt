@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\bin\Debug\EjemploGrid.exe.config
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\bin\Debug\EjemploGrid.exe
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\bin\Debug\EjemploGrid.pdb
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.Properties.Resources.resources
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.exe
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\EjemploGrid\obj\Debug\EjemploGrid.pdb
